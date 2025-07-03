@@ -1,4 +1,4 @@
-# Welcome to [pastells]!
+# Welcome to pastells!
 
 ### pastells gives **unbiased**, **deeply-researched** answers to **hard** questions about the world.
 
